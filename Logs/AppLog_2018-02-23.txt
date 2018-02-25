@@ -1,0 +1,16 @@
+********
+* The Activity Log contains a detailed list of the steps the Evernote application performs,
+* as well as information about your account and your device. Your Note titles, tags,
+* Notebook names and occasionally Note content also may be included. We treat your
+* Activity Log data as confidential, and the terms of our Privacy Policy apply (http://evernote.com/privacy).
+*
+* You may remove anything you do not want to send us.
+********
+
+
+[13612] Log opened on 2018/02/23 07:25:14 (UTC+8:00), logging level: [INFO   ]
+
+07:25:14 [INFO   ] [13612] [12648] Command line: "D:\印象笔记\BasicInstallation\Evernote.exe" 
+
+[13612] Log closed on 2018/02/23 07:25:14 (UTC+8:00)
+
