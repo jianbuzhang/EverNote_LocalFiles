@@ -1,3 +1,11 @@
 
-Log opened on 2018/02/26 00:31:31 (UTC+8:00)
+Log opened on 2018/02/26 11:14:44 (UTC+8:00)
 
+11:14:44 [6828] Failed to run pipe server with low integrity and EPM support attributes
+
+Log closed on 2018/02/26 11:15:54 (UTC+8:00)
+
+
+Log opened on 2018/02/26 11:16:29 (UTC+8:00)
+
+11:16:29 [4980] Failed to run pipe server with low integrity and EPM support attributes
